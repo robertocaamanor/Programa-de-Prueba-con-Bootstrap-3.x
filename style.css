@@ -1,0 +1,30 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+body h1{
+	font-weight: 800;
+}
+
+.quienessomos {
+	background: #eee;
+	color: #333;
+	border-bottom: 1px dotted #777;
+	padding-bottom: 10px;
+}
+
+.integrantes {
+	background: #eee;
+	color: #333;
+	padding-bottom: 20px;
+}
+
+.portada {
+	background: #FFFFFF;
+}
+
+.curriculum {
+	background: #d9534f;
+	color: #FFFFFF;
+	padding-bottom: 20px;
+}
